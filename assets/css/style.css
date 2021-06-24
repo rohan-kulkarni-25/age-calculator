@@ -130,7 +130,7 @@ nav {
   font-weight: 900;
 }
 
-nav svg {
+nav img {
   /* color: white; */
   width: 1.5rem;
   /* padding: 1rem; */
@@ -269,7 +269,7 @@ nav svg {
     font-weight: 900;
   }
 
-  nav svg {
+  nav img {
     width: 10vmin;
     padding-left: 3vmin;
     font-size: 1rem;
