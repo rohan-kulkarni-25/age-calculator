@@ -130,12 +130,13 @@ nav {
   font-weight: 900;
 }
 
-nav img {
+nav svg {
   /* color: white; */
   width: 1.5rem;
   /* padding: 1rem; */
   padding-left: 0.5rem;
   font-size: 1rem;
+  color: black;
 }
 
 #birth {
@@ -268,7 +269,7 @@ nav img {
     font-weight: 900;
   }
 
-  nav img {
+  nav svg {
     width: 10vmin;
     padding-left: 3vmin;
     font-size: 1rem;
