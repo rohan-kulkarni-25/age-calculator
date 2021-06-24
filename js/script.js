@@ -39,7 +39,7 @@ function age_calc() {
 
     if (age_in_month == 0 && dob_date == current.getDate()) {
         document.getElementById('wish').innerHTML = '<video id="birth" src="assets/images/Untitled design(1).mp4" controls autoplay></video>';
-        document.getElementById('bith').play();
+        document.getElementById('birth').play();
 
     }
     else if (age_in_month == 0 && dob_date > current.getDate() && DOB.getMonth() == current.getMonth()) {
